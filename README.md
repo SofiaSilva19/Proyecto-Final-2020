@@ -16,4 +16,4 @@ Contiene archivos de las prácticas de laboratorio elaborados durante el semestr
 
 **¡Muchas gracias por su tiempo y atención!**
 
-![programacion](https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.tutellus.com%2Ftecnologia%2Fsoftware%2Ffundamentos-de-programacion-aprende-a-programar-desde-cero21250&psig=AOvVaw3jkSS2BqWQnuKiZDoEGwWG&ust=1608156121532000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCMDU9cv-0O0CFQAAAAAdAAAAABAP)
+![programacion](https://www.tutellus.com/tecnologia/software/fundamentos-de-programacion-aprende-a-programar-desde-cero-21250)
