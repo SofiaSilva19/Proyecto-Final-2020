@@ -16,4 +16,4 @@ Contiene archivos de las prácticas de laboratorio elaborados durante el semestr
 
 **¡Muchas gracias por su tiempo y atención!**
 
-![programacion](https://proicecdn.azureedge.net/shared/content/imagenes/Usuarios/ImagenesCKEditor/ac55137e-1b27-4c2d-8239-74f31f35adee/31c868dc-a1ff-4fde-af36-f67c1c11ec33.jpg)
+![programacion](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
