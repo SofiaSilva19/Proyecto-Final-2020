@@ -15,7 +15,6 @@ Contiene archivos de las prácticas de laboratorio elaborados durante el semestr
 
 
 **¡Muchas gracias por su tiempo y atención!**
-
-                                                                                                         _Elaborado por Sofia Citlally Silva Mayoral_
+ _Elaborado por Sofia Citlally Silva Mayoral_
 
 ![programacion](https://cdn.dribbble.com/users/510430/screenshots/6749707/programar.gif)
